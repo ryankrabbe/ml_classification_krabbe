@@ -2,7 +2,9 @@
 
 # Links 🔗
 [My Github Repository](https://github.com/ryankrabbe/ml_classification_krabbe)
+
 [My Project Notebook](https://github.com/ryankrabbe/ml_classification_krabbe/blob/main/classification_krabbe.ipynb)
+
 [My Peer Review](https://github.com/ryankrabbe/ml_classification_krabbe/blob/main/peer_review.md)
 
 ---
@@ -21,8 +23,8 @@
 
 ### Section 6. Final Thoughts & Insights
 
-## Below is my Summary Table Template
-- This template is used to summarize my results across the different models and features used
+## Below is my Summary Table Template Comparing the Two Models
+- This template is used to summarize my results across the different models
 
 | Metric       | Decision Tree | Random Forest | Notes |
 |--------------|----------------|----------------|-------|
